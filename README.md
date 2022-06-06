@@ -1,4 +1,4 @@
 # 자기소개서
 ---
-![이력서 사진](kkm.jpg)
+<img src=kkm.jpg height=200 width=200>
 
